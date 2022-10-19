@@ -1,6 +1,6 @@
 ## Instructions  
 Salam Walaikum,  
-**bangla hadiths rest api to get Hadith in Bengali. also it contains Hadiths in Arabic, and English**  
+**bangla hadith rest api is to get Hadith in Bengali language. also it contains Hadiths in Arabic, and English**  
 
 
 ## Method  
