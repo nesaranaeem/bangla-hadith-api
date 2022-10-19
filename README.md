@@ -6,10 +6,12 @@ Salam Walaikum,
 ## Method  
 
 
-**all request method is get.**  
+**all request method is get.** 
 
 
-*NOTE: i have tried my best to provide accurate information. but nobody perfects. if you found any error please contact hello@nesaran.com. please test before use.*  
+*Credits: I don't know who created this hadiths digital database. i found some big sizes Hadiths database on internet. then, i organized and prepared it to use as api*  
+
+*NOTE: i have tried my best to provide accurate information. but nobody is perfect. if you found any error please contact hello@nesaran.com. please test before use.*  
 
 
 *jazakallah khair,*  
